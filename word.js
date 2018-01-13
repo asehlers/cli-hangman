@@ -21,6 +21,7 @@ function Word(){
 		for(var j = 0; j < this.characters.length; j++){
 			wordOut += " " + this.characters[j].output();
 		}
+		wordOut += "\n\r";
 		return wordOut;
 	}
 
