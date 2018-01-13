@@ -17,4 +17,4 @@ This program will take user letter input using inquirer for input. As guesses ar
 ####cli-hangman.js
 	main file handles running of the hangman game. Makes use of inquirer to get user input, validate it and send updates to game.
 	
-![alt text](https://raw.githubusercontent.com/asehlers/cli-hangman/codedemo.png)	
+![alt text](./codedemo.png)	
